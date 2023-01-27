@@ -152,7 +152,7 @@
     "@tsed/components-scan": "^7.0.0",
     "@tsed/core": "^7.0.0",
     "@tsed/di": "^7.0.0",
-    "@tsed/exceptions": "^7.0.0",
+    "@tsed/exceptions": "^7.13.3",
     "@tsed/json-mapper": "^7.0.0",
     "@tsed/platform-express": "^7.0.0",
     "@tsed/prisma": "^7.0.0",
